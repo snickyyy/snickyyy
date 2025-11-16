@@ -7,7 +7,8 @@
 			<img src="https://github-readme-stats.vercel.app/api?username=snickyyy&show_icons=true&line_height=27&count_private=true&title_color=DBDBDB&text_color=c9cacc&icon_color=6E6E6E&bg_color=1d1f21">
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snickyyy&hide=html,tex&title_color=DBDBDB&text_color=c9cacc&icon_color=6E6E6E&bg_color=1d1f21&langs_count=3">
 		</a>
-		<img align="center" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBDBDB&random=false&width=285&lines=Hello%2C+i+am+snicky." alt="Hello, i'm sc.snicky">
+		<br>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBDBDB&random=false&width=285&lines=Hello%2C+i+am+snicky." alt="Hello, i'm sc.snicky">
 		<br>
 	</div>
 		<hr>
